@@ -1,4 +1,4 @@
 <script>
 
 alert('hello');
-</script>
+</scirpt>
